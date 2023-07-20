@@ -4,7 +4,7 @@ public class Javajenkins  {
         System.out.println("Bonjour, Word Devops !");
     
     }
-    public static 
+    
 
     
 }
